@@ -5,7 +5,9 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.MobileOnly(Component.Explorer()),
+  ],
   footer: Component.Footer({
     links: {
       Zudo: "https://zudo.cc",
@@ -33,7 +35,6 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.MobileOnly(Component.Explorer()),
     Component.Backlinks(),
   ],
 }
