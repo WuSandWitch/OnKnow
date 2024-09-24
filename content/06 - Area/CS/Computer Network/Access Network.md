@@ -25,11 +25,11 @@ publish: true
 - **Share Access Network**
 
 ### Difference Between
-| Feature               | **Cable-Based Access**                                             | **DSL (Digital Subscriber Line)**                                    |
+| Feature               | **Cable-Based Access**                                             | **DSL (Digital Subscriber Line)**                                    |
 | --------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------- |
 | Infrastructure        | Coaxial cables + fiber optics                                      | Existing telephone lines (copper wires)                              |
-| *Type of Connection*  | *Shared among users in the same area             *                 | *Dedicated line from home to ISP central office *                    |
-| Bandwidth             | Higher download speeds (up to 1.2 Gbps), shared                    | Lower speeds (up to 52 Mbps), dependent on distance                  |
+| *Type of Connection*  | *Shared among users in the same area*                              | *Dedicated line from home to ISP central office*                     |
+| Bandwidth             | Higher download speeds (up to 1.2 Gbps), shared                    | Lower speeds (up to 52 Mbps), dependent on distance                  |
 | Download/Upload Speed | Asymmetric: faster downloads, slower uploads                       | Asymmetric: slower than cable, but with dedicated access             |
 | Impact of Usage       | Bandwidth shared with neighbors, potential slowdowns at peak times | No impact from neighbors, but speed decreases with distance from ISP |
 
