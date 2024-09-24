@@ -1,18 +1,20 @@
-# Quartz v4
+<center> 
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+![Icon](/quartz/static/og-image.jpg)  <!-- Replace with the path to your icon -->
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## On Know
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+Hi, I'm Owen, a student studying in CS. \
+And I use [Obsidian](https://obsidian.md/) to take notes.\
 
-## Sponsors
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+OnKnow is my knowledge base site designed for sharing notes and articles build by [Quartz](https://quartz.jzhao.xyz/). \
+Unlike a blog, this platform serves as a repository basically the knowledge which ever stores or not in my brain.
+
+[Visit the site](https://your-link-here.com)  
+
+
+
+
+</center>
