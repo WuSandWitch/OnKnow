@@ -8,9 +8,9 @@ publish: true
 # Discrete Math
 
 
-[[Propositional Logic]]
-[[Application of Propositional Logic]]
-[[Propositional Equivalences]]
+- [[Propositional Logic]]
+- [[Application of Propositional Logic]]
+- [[Propositional Equivalences]]
 \
 
 
