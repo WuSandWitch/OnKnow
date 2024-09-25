@@ -7,6 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     Component.MobileOnly(Component.Explorer()),
+    Component.MobileOnly(Component.Spacer()),
   ],
   footer: Component.Footer({
     links: {
@@ -23,6 +24,7 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.MobileOnly(Component.Spacer()),
     Component.MobileOnly(Component.TableOfContents()),
   ],
   left: [
