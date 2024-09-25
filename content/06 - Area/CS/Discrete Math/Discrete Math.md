@@ -11,7 +11,6 @@ publish: true
 - [[Propositional Logic]]
 - [[Application of Propositional Logic]]
 - [[Propositional Equivalences]]
-\
 
 
 [[Counting]]
