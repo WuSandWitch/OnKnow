@@ -10,8 +10,8 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      Zudo: "https://zudo.cc",
-      WuSandWitch: "https://wusandwitch.zudo.cc",
+      "Zudo": "https://zudo.cc",
+      "Owen Wu": "https://github.com/wusandwitch",
     },
   }),
 }
