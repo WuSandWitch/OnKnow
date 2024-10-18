@@ -40,7 +40,7 @@ Provides programming interface to apps
 ## Internet Structure
 ### [[Network Edge]]
 The end systems, what actually use the Internet.
-### [[Access Network]] and physical media
+### [[Access Network]] and [[Physical media]]
 Wired, wireless communication links, what allow the edge to connect to the Internet.
 - residential access nets
 - institutional access networks (school, company)

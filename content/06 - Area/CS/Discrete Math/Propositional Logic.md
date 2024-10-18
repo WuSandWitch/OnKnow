@@ -6,17 +6,7 @@ publish: true
 ---
 # Propositional Logic
 
-
-## Proposition
-
-A proposition is a declaration that is either `true` or `false`.
-e.g.
-- The Moon is made of green cheese.
-- 1 + 1 = 2
-
-What is not:
-- Sit down!
-- x + y = z
+[[Proposition]]
 
 ## Propositional Language
 
@@ -139,11 +129,4 @@ Logical Connective (Logical Operator)
 
 
 [[Application of Propositional Logic]]
-
-
 [[Propositional Equivalences]]
-
-
-
-
-## Truth table

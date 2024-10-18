@@ -10,8 +10,12 @@ publish: true
 
 What is [[Internet]]?
 What's a [[Protocol]]?
-[[Network Edge]]
-[[Network Core]]
+
+
+
+- [[Network Edge]]
+- [[Access Network]] and [[Physical media]]
+- [[Network Core]]
 
 [[Computer NetWork Tmp]]
 
