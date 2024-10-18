@@ -81,7 +81,7 @@ e.g.
 	- $f(n) = O(n)$ because $3n + 2 \leq 4n$ for all $n \geq 2$.
 	- $f(n) = \Omega(n)$ because $3n + 2 \geq 3n$ for all $n \geq 1$.
 	- $f(n) = \Theta(n)$ because $3n \leq 3n + 2 \leq 4n$ for all $n \geq 2$.
-  - For $f(n) = 10n^2 + 4n + 2$:
+- For $f(n) = 10n^2 + 4n + 2$:
     - $f(n) = O(n^2)$ because $10n^2 + 4n + 2 \leq 11n^2$ for all $n \geq 5$.
     - $f(n) = \Omega(n^2)$ because $10n^2 + 4n + 2 \geq n^2$ for all $n \geq 1$.
     - $f(n) = \Theta(n^2)$ because $n^2 \leq 10n^2 + 4n + 2 \leq 11n^2$ for all $n \geq 5$.
